@@ -1,2 +1,5 @@
 # Data-Science-Projects
-## This repository contains all of data science projects I have comppleted.
+## This repository contains all of the data science projects I have completed.
+
+## NBA Salary Analysis
+
